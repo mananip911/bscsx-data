@@ -1,12 +1,12 @@
 {
   "semester": {
-    "name": "Semester 3",
-    "updatedAt": "2026-02-13T09:05:57.037Z"
+    "name": "Semester 1",
+    "updatedAt": "2026-02-13T09:15:33.796Z"
   },
   "subjects": [
     {
       "id": "1",
-      "name": "Data C++",
+      "name": "Data QN++",
       "outline": "Introduction to data structures including arrays, linked lists, stacks, queues, trees, and graphs.",
       "color": "#6366F1",
       "icon": "list.bullet.rectangle"
@@ -19,14 +19,7 @@
       "color": "#8B5CF6"
     }
   ],
-  "notes": [
-    {
-      "id": "1-1770973766214",
-      "title": "Lecture 1",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1DKwQgfYi8ChTZl6RULDtpm_tPFiQe-Y4",
-      "createdAt": "2026-02-13T09:09:26.214Z"
-    }
-  ],
+  "notes": [],
   "folders": [],
   "messageOfTheDay": {
     "message": "Welcome to BsCsX! Your one-stop solution for all course notes. Stay updated with the latest materials.",
@@ -36,6 +29,6 @@
         "url": "https://example.com"
       }
     ],
-    "updatedAt": "2026-02-13T08:54:44.877Z"
+    "updatedAt": "2026-02-13T09:12:04.727Z"
   }
 }
