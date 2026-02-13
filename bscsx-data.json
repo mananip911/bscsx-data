@@ -1,12 +1,12 @@
 {
   "semester": {
-    "name": "Semester 7",
-    "updatedAt": "2026-02-13T12:38:32.541Z"
+    "name": "Semester 2",
+    "updatedAt": "2026-02-13T13:22:53.449Z"
   },
   "subjects": [
     {
       "id": "1",
-      "name": "Data Structures c++",
+      "name": "Physiology",
       "outline": "Introduction to data structures including arrays, linked lists, stacks, queues, trees, and graphs.",
       "outlinePdfUrl": "https://drive.google.com/file/d/1DKwQgfYi8ChTZl6RULDtpm_tPFiQe-Y4/view?usp=sharing",
       "color": "#6366F1",
@@ -20,15 +20,7 @@
       "color": "#8B5CF6"
     }
   ],
-  "notes": [
-    {
-      "id": "1-1770986383103",
-      "title": "Lecture 1",
-      "pdfUrl": "https://drive.google.com/file/d/1DKwQgfYi8ChTZl6RULDtpm_tPFiQe-Y4/preview",
-      "subjectId": "1",
-      "createdAt": "2026-02-13T12:39:43.103Z"
-    }
-  ],
+  "notes": [],
   "folders": [],
   "messageOfTheDay": {
     "message": "Welcome to BsCsX! Your one-stop solution for all course notes. Stay updated with the latest materials.",
@@ -38,6 +30,6 @@
         "url": "https://example.com"
       }
     ],
-    "updatedAt": "2026-02-13T12:36:16.814Z"
+    "updatedAt": "2026-02-13T13:16:08.709Z"
   }
 }
