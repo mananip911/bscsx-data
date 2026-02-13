@@ -11,13 +11,6 @@
       "outlinePdfUrl": "https://drive.google.com/file/d/1DKwQgfYi8ChTZl6RULDtpm_tPFiQe-Y4/view?usp=sharing",
       "color": "#EF4444",
       "icon": "list.bullet.rectangle"
-    },
-    {
-      "id": "2",
-      "name": "Database Systems",
-      "outline": "Relational database design, SQL queries, normalization, and transactions.",
-      "icon": "cylinder.split.1x2",
-      "color": "#8B5CF6"
     }
   ],
   "notes": [
