@@ -1,7 +1,7 @@
 {
   "semester": {
     "name": "Semester 3",
-    "updatedAt": "2026-02-13T10:59:23.145Z"
+    "updatedAt": "2026-02-13T11:00:37.949Z"
   },
   "subjects": [
     {
@@ -20,7 +20,15 @@
       "color": "#8B5CF6"
     }
   ],
-  "notes": [],
+  "notes": [
+    {
+      "id": "1-1770980459080",
+      "title": "New one",
+      "pdfUrl": "https://drive.google.com/file/d/1DKwQgfYi8ChTZl6RULDtpm_tPFiQe-Y4/preview",
+      "subjectId": "1",
+      "createdAt": "2026-02-13T11:00:59.080Z"
+    }
+  ],
   "folders": [],
   "messageOfTheDay": {
     "message": "Welcome to BsCsX! Your one-stop solution for all course notes. Stay updated with the latest materials.",
