@@ -19,7 +19,14 @@
       "color": "#8B5CF6"
     }
   ],
-  "notes": [],
+  "notes": [
+    {
+      "id": "1-1770974213405",
+      "title": "Lecture 2",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1DKwQgfYi8ChTZl6RULDtpm_tPFiQe-Y4",
+      "createdAt": "2026-02-13T09:16:53.405Z"
+    }
+  ],
   "folders": [],
   "messageOfTheDay": {
     "message": "Welcome to BsCsX! Your one-stop solution for all course notes. Stay updated with the latest materials.",
