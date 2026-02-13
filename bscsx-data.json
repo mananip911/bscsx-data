@@ -1,12 +1,12 @@
 {
   "semester": {
-    "name": "Semester 4",
-    "updatedAt": "2026-02-13T11:15:02.137Z"
+    "name": "Semester 7",
+    "updatedAt": "2026-02-13T12:38:32.541Z"
   },
   "subjects": [
     {
       "id": "1",
-      "name": "Data g++",
+      "name": "Data Structures c++",
       "outline": "Introduction to data structures including arrays, linked lists, stacks, queues, trees, and graphs.",
       "outlinePdfUrl": "https://drive.google.com/file/d/1DKwQgfYi8ChTZl6RULDtpm_tPFiQe-Y4/view?usp=sharing",
       "color": "#6366F1",
@@ -20,15 +20,7 @@
       "color": "#8B5CF6"
     }
   ],
-  "notes": [
-    {
-      "id": "1-1770981351630",
-      "title": "Lecture 8",
-      "pdfUrl": "https://drive.google.com/file/d/1DKwQgfYi8ChTZl6RULDtpm_tPFiQe-Y4/preview",
-      "subjectId": "1",
-      "createdAt": "2026-02-13T11:15:51.630Z"
-    }
-  ],
+  "notes": [],
   "folders": [],
   "messageOfTheDay": {
     "message": "Welcome to BsCsX! Your one-stop solution for all course notes. Stay updated with the latest materials.",
@@ -38,6 +30,6 @@
         "url": "https://example.com"
       }
     ],
-    "updatedAt": "2026-02-13T11:13:53.575Z"
+    "updatedAt": "2026-02-13T12:36:16.814Z"
   }
 }
