@@ -1,45 +1,26 @@
 {
   "semester": {
-    "name": "Semester 1",
-    "updatedAt": "2026-02-13T09:15:33.796Z"
+    "name": "Semester 2",
+    "updatedAt": "2026-02-13T10:43:40.294Z"
   },
   "subjects": [
     {
       "id": "1",
-      "name": "Data QN++",
+      "name": "Data Structures C++",
       "outline": "Introduction to data structures including arrays, linked lists, stacks, queues, trees, and graphs.",
       "outlinePdfUrl": "https://drive.google.com/file/d/1DKwQgfYi8ChTZl6RULDtpm_tPFiQe-Y4/view?usp=sharing",
-      "color": "#EF4444",
-      "icon": "list.bullet.rectangle"
-    },
-    {
-      "id": "1770976956219",
-      "name": "Fernando",
-      "outline": "Vajhababaj",
       "color": "#6366F1",
       "icon": "list.bullet.rectangle"
-    }
-  ],
-  "notes": [
-    {
-      "id": "1-1770974213405",
-      "title": "Lecture 2",
-      "pdfUrl": "https://drive.google.com/uc?export=download&id=1DKwQgfYi8ChTZl6RULDtpm_tPFiQe-Y4",
-      "createdAt": "2026-02-13T09:16:53.405Z"
     },
     {
-      "id": "1-1770975206189",
-      "title": "Lecture 2",
-      "pdfUrl": "https://drive.google.com/file/d/1DKwQgfYi8ChTZl6RULDtpm_tPFiQe-Y4/preview",
-      "createdAt": "2026-02-13T09:33:26.189Z"
-    },
-    {
-      "id": "1770976956219-1770977090015",
-      "title": "Ghee",
-      "pdfUrl": "https://drive.google.com/file/d/1DKwQgfYi8ChTZl6RULDtpm_tPFiQe-Y4/preview",
-      "createdAt": "2026-02-13T10:04:50.015Z"
+      "id": "2",
+      "name": "Database Systems",
+      "outline": "Relational database design, SQL queries, normalization, and transactions.",
+      "icon": "cylinder.split.1x2",
+      "color": "#8B5CF6"
     }
   ],
+  "notes": [],
   "folders": [],
   "messageOfTheDay": {
     "message": "Welcome to BsCsX! Your one-stop solution for all course notes. Stay updated with the latest materials.",
@@ -49,6 +30,6 @@
         "url": "https://example.com"
       }
     ],
-    "updatedAt": "2026-02-13T09:12:04.727Z"
+    "updatedAt": "2026-02-13T10:42:47.107Z"
   }
 }
