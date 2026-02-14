@@ -19,6 +19,14 @@
       "outlinePdfUrl": "https://drive.google.com/file/d/1-8J7R-v7LK61ANKS1BoA4RIphxmDYg6G/view?usp=drivesdk",
       "color": "#EC4899",
       "icon": "chevron.left.forwardslash.chevron.right"
+    },
+    {
+      "id": "1771069222387",
+      "name": "Digital Logic Designs",
+      "outline": "All About Digital Logic Designs",
+      "outlinePdfUrl": "https://drive.google.com/file/d/1xGB4A_TTZZzRg7-1AwU4e8qFSB3IZPbB/view?usp=drivesdk",
+      "color": "#6366F1",
+      "icon": "doc.fill"
     }
   ],
   "notes": [
