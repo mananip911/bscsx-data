@@ -43,6 +43,14 @@
       "outlinePdfUrl": "https://drive.google.com/file/d/1oGnZRHDXR32nxD5MexmPDrOtLB5QzFxN/view?usp=drivesdk",
       "color": "#EF4444",
       "icon": "doc.fill"
+    },
+    {
+      "id": "1771069437597",
+      "name": "QR-2",
+      "outline": "All About advance Reasoning",
+      "outlinePdfUrl": "https://drive.google.com/file/d/1e73HXhKglVY0mjb_n2Avz3V_8Usft-Q9/view?usp=drivesdk",
+      "color": "#EC4899",
+      "icon": "list.bullet.rectangle"
     }
   ],
   "notes": [
