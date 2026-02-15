@@ -60,7 +60,15 @@
       "icon": "list.bullet.rectangle"
     }
   ],
-  "notes": [],
+  "notes": [
+    {
+      "id": "1771163178957-1771163237177",
+      "title": "Time Table",
+      "pdfUrl": "https://drive.google.com/file/d/1U5Ov_WlioMJ0wEl268nTUTtbmznmbQ8Z/preview",
+      "subjectId": "1771163178957",
+      "createdAt": "2026-02-15T13:47:17.177Z"
+    }
+  ],
   "folders": [],
   "messageOfTheDay": {
     "message": "Welcome to BsCsX! Your one-stop solution for all course notes. Stay updated with the latest materials.\n                 Stay Humble Please",
