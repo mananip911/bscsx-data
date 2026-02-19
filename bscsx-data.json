@@ -58,6 +58,13 @@
       "outline": "Time Table of BsCs both groups.",
       "color": "#F59E0B",
       "icon": "list.bullet.rectangle"
+    },
+    {
+      "id": "1771469422640",
+      "name": "Understanding of Quran 2",
+      "outline": "Understand the Quran in an easy way efficiently.",
+      "color": "#14B8A6",
+      "icon": "cpu"
     }
   ],
   "notes": [
