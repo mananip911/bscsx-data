@@ -213,7 +213,24 @@
   "folders": [],
   "messageOfTheDay": {
     "message": "Read! In the name of your Lord who created.",
-    "links": [],
-    "updatedAt": "2026-06-03T06:37:17.972Z"
+    "links": [
+      {
+        "text": "Qr Z Test",
+        "url": "https://youtu.be/_0P6hfpMptY?si=WHmdEG5c21r2ep0f"
+      },
+      {
+        "text": "Qr T Test",
+        "url": "https://youtu.be/1Ju5AV-tcrA?si=GgK8OarDO8myDWLm"
+      },
+      {
+        "text": "Qr Binomial Distribution",
+        "url": "https://youtu.be/6kjV00IvFqA?si=WRkKrD1AcLCYsF0k"
+      },
+      {
+        "text": "Qr Normal Distribution",
+        "url": "https://youtu.be/dmCQ-OkpZVE?si=0LAnUmbQVQnus-PE"
+      }
+    ],
+    "updatedAt": "2026-06-14T09:22:42.537Z"
   }
 }
